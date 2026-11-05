@@ -1,0 +1,3 @@
+-- Note: The default admin (admin / Activeance2024!) is securely 
+-- auto-created by admin.php on the first visit using password_hash().
+
