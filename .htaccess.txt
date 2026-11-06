@@ -1,0 +1,15 @@
+<Files "config.php">
+    Require all denied
+</Files>
+<Files "bootstrap.php">
+    Require all denied
+</Files>
+<Files "database.sql">
+    Require all denied
+</Files>
+<Files "hash.php">
+    Require all denied
+</Files>
+<Files "test_login.php">
+    Require all denied
+</Files>
